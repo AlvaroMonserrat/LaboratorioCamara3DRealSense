@@ -50,7 +50,7 @@ int showImageBmp() {
 	GLFWwindow *windowResult;
 
 	//Crea el contexto de OpenGL y establece parametros de la ventana
-	windowResult = glfwCreateWindow(640, 480, "Camara SR300 Result", nullptr, nullptr);
+	windowResult = glfwCreateWindow(640, 480, "Camara SR300 Resultados", nullptr, nullptr);
 
 	if (windowResult == NULL) {
 		printf("Error al crear el contexto OpenGL");
