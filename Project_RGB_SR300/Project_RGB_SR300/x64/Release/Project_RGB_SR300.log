@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.obj : error LNK2001: símbolo externo rs_free_error sin resolver
+main.obj : error LNK2001: símbolo externo rs_get_device_count sin resolver
+main.obj : error LNK2001: símbolo externo rs_get_error_message sin resolver
+main.obj : error LNK2001: símbolo externo rs_get_failed_args sin resolver
+main.obj : error LNK2001: símbolo externo rs_create_context sin resolver
+main.obj : error LNK2001: símbolo externo rs_get_failed_function sin resolver
+main.obj : error LNK2001: símbolo externo rs_delete_context sin resolver
+C:\Users\alvar\Source\Repos\ProjectoGMLabs\Project_RGB_SR300\x64\Release\Project_RGB_SR300.exe : fatal error LNK1120: 7 externos sin resolver
