@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\alvar\source\repos\projectogmlabs\aplicaciontest\aplicaciontest\main.cpp(102): warning C4129: 'w': secuencia de escape de carácter no reconocida
+  AplicacionTest.vcxproj -> C:\Users\alvar\Source\Repos\ProjectoGMLabs\AplicacionTest\Debug\AplicacionTest.exe
+  AplicacionTest.vcxproj -> C:\Users\alvar\Source\Repos\ProjectoGMLabs\AplicacionTest\Debug\AplicacionTest.pdb (Partial PDB)

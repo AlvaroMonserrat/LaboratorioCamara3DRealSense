@@ -1,5 +1,9 @@
 ﻿  main.cpp
 c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY': redefinición de macro
   c:\users\alvar\onedrive\documentos\librerias\glfw-3.2.1.bin.win64\include\glfw\glfw3.h(98): note: vea la definición anterior de 'APIENTRY'
+  SaveImageBmp.cpp
+c:\users\alvar\source\repos\projectogmlabs\project_rgb_sr300\project_rgb_sr300\saveimagebmp.cpp(10): warning C4800: 'BOOL': forzando el valor a bool 'true' o 'false' (advertencia de rendimiento)
+c:\users\alvar\source\repos\projectogmlabs\project_rgb_sr300\project_rgb_sr300\saveimagebmp.cpp(27): warning C4800: 'BOOL': forzando el valor a bool 'true' o 'false' (advertencia de rendimiento)
+  Generando código...
   Project_RGB_SR300.vcxproj -> C:\Users\alvar\Source\Repos\ProjectoGMLabs\Project_RGB_SR300\x64\Debug\Project_RGB_SR300.exe
   Project_RGB_SR300.vcxproj -> C:\Users\alvar\Source\Repos\ProjectoGMLabs\Project_RGB_SR300\x64\Debug\Project_RGB_SR300.pdb (Partial PDB)

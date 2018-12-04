@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\alvar\source\repos\projectogmlabs\project_analisis_figura3color\project_analisis_figura3color\main.cpp(102): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alvar\source\repos\projectogmlabs\project_analisis_figura3color\project_analisis_figura3color\main.cpp(259): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Project_Analisis_Figura3Color.vcxproj -> C:\Users\alvar\Source\Repos\ProjectoGMLabs\Project_Analisis_Figura3Color\x64\Debug\Project_Analisis_Figura3Color.exe
+  Project_Analisis_Figura3Color.vcxproj -> C:\Users\alvar\Source\Repos\ProjectoGMLabs\Project_Analisis_Figura3Color\x64\Debug\Project_Analisis_Figura3Color.pdb (Partial PDB)

@@ -156,7 +156,7 @@ int main()
 
 			//Crear elemento para erosion y dilatacion
 			int erosion_size = 3;
-			cv::Mat element = cv::getStructuringElement(cv::MORPH_ELLIPSE, cv::Size(2 * erosion_size + 1, 2 * erosion_size + 1), cv::Point(erosion_size, erosion_size));
+			cv::Mat element = cv::getStructuringElement(cv::MORPH_RECT, cv::Size(2 * erosion_size + 1, 2 * erosion_size + 1), cv::Point(erosion_size, erosion_size));
 
 			//Erosionar y dilatar (Filtro para eliminar particulas pequeñas)
 			erode(imgThresholded, imgThresholded, element);
@@ -193,9 +193,11 @@ int main()
 			cv::imshow("ImageBinary", imgThresholded);
 			cv::imshow("Result", ImageColor);
 
-			a = distanceZ * tan(28.5*PI / 180.0);
-			l = distanceZ * tan(21.5*PI / 180.0);
-			
+			//a = distanceZ * tan(28.5*PI / 180.0);
+			//l = distanceZ * tan(21.5*PI / 180.0);
+			a = distanceZ * tan(30*PI / 180.0);
+			l = distanceZ * tan(20.75*PI / 180.0);
+
 			ancho = (width * 2.0 * a) / 640.0;
 			largo = (height * 2.0 * l) / 480.0;
 

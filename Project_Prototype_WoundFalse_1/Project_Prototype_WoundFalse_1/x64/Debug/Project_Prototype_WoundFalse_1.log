@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\alvar\source\repos\projectogmlabs\project_prototype_woundfalse_1\project_prototype_woundfalse_1\main.cpp(188): warning C4129: 'I': secuencia de escape de carácter no reconocida
+c:\users\alvar\source\repos\projectogmlabs\project_prototype_woundfalse_1\project_prototype_woundfalse_1\main.cpp(271): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alvar\source\repos\projectogmlabs\project_prototype_woundfalse_1\project_prototype_woundfalse_1\main.cpp(419): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alvar\source\repos\projectogmlabs\project_prototype_woundfalse_1\project_prototype_woundfalse_1\main.cpp(521): warning C4129: 'w': secuencia de escape de carácter no reconocida
+  Project_Prototype_WoundFalse_1.vcxproj -> C:\Users\alvar\Source\Repos\ProjectoGMLabs\Project_Prototype_WoundFalse_1\x64\Debug\Project_Prototype_WoundFalse_1.exe
+  Project_Prototype_WoundFalse_1.vcxproj -> C:\Users\alvar\Source\Repos\ProjectoGMLabs\Project_Prototype_WoundFalse_1\x64\Debug\Project_Prototype_WoundFalse_1.pdb (Partial PDB)

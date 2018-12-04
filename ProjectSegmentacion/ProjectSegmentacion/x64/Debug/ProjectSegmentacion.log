@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\alvar\source\repos\projectogmlabs\projectsegmentacion\projectsegmentacion\main.cpp(119): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alvar\source\repos\projectogmlabs\projectsegmentacion\projectsegmentacion\main.cpp(122): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\alvar\source\repos\projectogmlabs\projectsegmentacion\projectsegmentacion\main.cpp(123): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\alvar\source\repos\projectogmlabs\projectsegmentacion\projectsegmentacion\main.cpp(125): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alvar\source\repos\projectogmlabs\projectsegmentacion\projectsegmentacion\main.cpp(138): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\alvar\source\repos\projectogmlabs\projectsegmentacion\projectsegmentacion\main.cpp(153): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'unsigned __int64'
+  c:\users\alvar\source\repos\projectogmlabs\projectsegmentacion\projectsegmentacion\main.cpp(153): note: considere el uso de ' %zd' en la cadena de formato
+  ProjectSegmentacion.vcxproj -> C:\Users\alvar\Source\Repos\ProjectoGMLabs\ProjectSegmentacion\x64\Debug\ProjectSegmentacion.exe
+  ProjectSegmentacion.vcxproj -> C:\Users\alvar\Source\Repos\ProjectoGMLabs\ProjectSegmentacion\x64\Debug\ProjectSegmentacion.pdb (Partial PDB)

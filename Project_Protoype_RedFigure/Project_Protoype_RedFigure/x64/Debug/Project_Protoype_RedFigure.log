@@ -1,4 +1,4 @@
 ﻿  main.cpp
-c:\users\alvar\source\repos\projectogmlabs\project_protoype_redfigure\project_protoype_redfigure\main.cpp(168): warning C4244: '=': conversión de 'std::size_t' a 'double'; posible pérdida de datos
+c:\users\alvar\source\repos\projectogmlabs\project_protoype_redfigure\project_protoype_redfigure\main.cpp(169): warning C4244: '=': conversión de 'std::size_t' a 'double'; posible pérdida de datos
   Project_Protoype_RedFigure.vcxproj -> C:\Users\alvar\Source\Repos\ProjectoGMLabs\Project_Protoype_RedFigure\x64\Debug\Project_Protoype_RedFigure.exe
   Project_Protoype_RedFigure.vcxproj -> C:\Users\alvar\Source\Repos\ProjectoGMLabs\Project_Protoype_RedFigure\x64\Debug\Project_Protoype_RedFigure.pdb (Partial PDB)

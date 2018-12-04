@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Analisis>
+    <Herida>
+        <at>30 cm2</at>
+        <ar>15 cm2</ar>
+        <aa>10 cm2</aa>
+        <an>5 cm2</an>
+        <pr>40 %</pr>
+        <pa>30 %</pa>
+        <pm>30 %</pm>
+    </Herida>
+</Analisis>

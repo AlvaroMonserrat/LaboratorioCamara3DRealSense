@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\alvar\source\repos\projectogmlabs\projectdepthimageprocessing\projectdepthimageprocessing\main.cpp(38): warning C4715: 'RsImage2CVMat': no todas las rutas de acceso de control devuelven un valor
+  ProjectDepthImageProcessing.vcxproj -> C:\Users\alvar\Source\Repos\ProjectoGMLabs\ProjectDepthImageProcessing\x64\Debug\ProjectDepthImageProcessing.exe
+  ProjectDepthImageProcessing.vcxproj -> C:\Users\alvar\Source\Repos\ProjectoGMLabs\ProjectDepthImageProcessing\x64\Debug\ProjectDepthImageProcessing.pdb (Partial PDB)

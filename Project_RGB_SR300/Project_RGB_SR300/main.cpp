@@ -1,3 +1,6 @@
+/*
+Guardar imagenes en formato bmp
+*/
 //#include <iostream> // cout - cin 
 #include <cstdio> // FILE objects - printf - scanf - fopen
 #include <glfw3.h> //Libreria GLFW para display gráfico

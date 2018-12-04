@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\alvar\source\repos\projectogmlabs\project_area_red_depthpixels\project_area_red_depthpixels\main.cpp(248): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'unsigned __int64'
+  c:\users\alvar\source\repos\projectogmlabs\project_area_red_depthpixels\project_area_red_depthpixels\main.cpp(248): note: considere el uso de ' %zd' en la cadena de formato
+  Project_Area_Red_depthPixels.vcxproj -> C:\Users\alvar\Source\Repos\ProjectoGMLabs\Project_Area_Red_depthPixels\x64\Debug\Project_Area_Red_depthPixels.exe
+  Project_Area_Red_depthPixels.vcxproj -> C:\Users\alvar\Source\Repos\ProjectoGMLabs\Project_Area_Red_depthPixels\x64\Debug\Project_Area_Red_depthPixels.pdb (Partial PDB)
