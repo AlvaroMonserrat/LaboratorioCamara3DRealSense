@@ -1,3 +1,2 @@
-# ProjectoGMLabs
-Proyecto Emprendimiento 2016
-//Descripcion del proyecto GMLabs
+# Laboratorio de pruebas con Camara Intel® RealSense­™ SR300
+
